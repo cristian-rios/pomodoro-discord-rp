@@ -1,0 +1,23 @@
+{
+  "name": "pomodoro-discord-rp",
+  "version": "1.0.0",
+  "description": "Rich Presence for Discord for Pomodoro method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristian-rios/pomodoro-discord-rp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristian-rios/pomodoro-discord-rp/issues"
+  },
+  "homepage": "https://github.com/cristian-rios/pomodoro-discord-rp#readme",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}
